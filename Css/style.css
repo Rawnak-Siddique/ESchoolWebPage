@@ -1,0 +1,138 @@
+.btn{
+    height: 50px;
+    color: seashell;
+    background-color:   #2ecc71;
+    border-radius: 30%;
+    padding: 10px 10px;
+    text-align: center;
+}
+.container-fluid{
+    background-color: #d5f5e3;
+}
+.container{
+    margin-bottom: 200px;
+}
+.nav-link{
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+.nav-link:hover{
+    width: 150px;
+    height: 50px;
+    background-color:  #44be45;
+    border-radius: 30%;
+    box-shadow: 10px 10px #b0ec98;
+}
+.navbar{
+    background-color: #d5f5e3;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 30px;
+}
+.navbar img{
+    width: 300px;
+    height: 100px;
+}
+.red{
+    color: red;
+}
+span{
+    color: #44be45;
+}
+.Top{
+    font-size: 20px;
+    padding-left: 10%;
+}
+.Top h1{
+    font-weight: bold;
+    font-size: 35px;
+}
+.col-md-6 img{
+    float: right;
+    padding-right: 10%;
+}
+.SemiCard{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+    flex: auto;    
+}
+#sc1, #sc2, #sc3, #sc4{
+    width: 200px;
+    height: 300px;
+    margin: 10px 10px 10px 10px;
+    background-color: #eafaf1;
+    border: hidden;
+    text-align: center;
+}
+#sc4:hover{
+    background-color:  #f4f6f7;
+    border-radius: 10%;
+    box-shadow: 10px 10px 10px  #e5e7e9;
+}   
+#sc3:hover{
+    background-color:  #f4f6f7;
+    border-radius: 10%;
+    box-shadow: 10px 10px 10px  #e5e7e9;
+}   
+#sc2:hover{
+    background-color:  #f4f6f7;
+    border-radius: 10%;
+    box-shadow: 10px 10px 10px  #e5e7e9;
+}   
+#sc1:hover{
+    background-color:  #f4f6f7;
+    border-radius: 10%;
+    box-shadow: 10px 10px 10px  #e5e7e9;
+}   
+#sci1, #sci2, #sci3, #sci4{
+    width: 100px;
+    height: 100px;
+}
+.couresCard h1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-size: 50px;
+    color: #2c3e50;
+}
+.couresCard{
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    height: 400px;
+    flex: auto;
+}
+.couresCard img{
+    width: 250px;
+    height: 200px;
+}
+.card-footer img{
+    width: 20px;
+    height: 20px;
+}
+.teach{
+    padding-top: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+    flex: auto;
+}
+.teach img{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+.footer{
+    padding-top: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding: 10px;
+    text-align: center;
+    flex: auto;
+    color: #e5e7e9;
+    background-color:  #2b2637 ;
+}
